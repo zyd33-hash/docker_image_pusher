@@ -1,1 +1,1 @@
-docker pull --platform linux/amd64 unclecode/crawl4ai:all-amd64
+unclecode/crawl4ai:all-amd64
